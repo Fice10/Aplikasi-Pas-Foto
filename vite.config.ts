@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/', // ✅ TAMBAHKAN INI
+  base: '/', // ✅ ganti ini
 
   plugins: [
     react(),
