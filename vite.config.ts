@@ -20,5 +20,3 @@ export default defineConfig({
   // File types to support raw imports. Never add .css, .tsx, or .ts files to this.
   assetsInclude: ['**/*.svg', '**/*.csv'],
 })
-git config --global user.email "fikriluthfi10@gmail.com"
-git config --global user.name "Fikri Luthfi"
